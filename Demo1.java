@@ -3,6 +3,6 @@ public class Demo1 {
     System.out.println("Hi I/'m from feature (merge conflit) ")
     System.out.println("Hi, I/'m from Main!");
     System.out.println("Hi, I/'m from Main! ");
-    
-}
+    System.out.println("Hi I/'m from feature (merge conflit) ")
+    }
 }
